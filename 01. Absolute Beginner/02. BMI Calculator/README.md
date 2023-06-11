@@ -16,7 +16,7 @@ How to Use
 * Open a terminal or command prompt and navigate to the project directory.
 * Run the main.py script using the command: 
 ```
-python main.py.
+python main.py
 ```
 * Enter your height and weight as prompted by the calculator. 
 * The program will display your BMI and the corresponding weight category.
