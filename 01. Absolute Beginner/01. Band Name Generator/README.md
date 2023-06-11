@@ -10,11 +10,9 @@
 
 **🚀 To use the Band Name Generator:**
 
-    Clone or download the repository to your local machine.
-
-    Open the project folder and run the band_name_generator.py file using Python.
-
-    The program will generate and display a random band name for you. Feel free to run it multiple times to get different band name suggestions. 🎩✨
+* Clone or download the repository to your local machine.
+* Open the project folder and run the main.py file using Python.
+* The program will generate and display a random band name for you. Feel free to run it multiple times to get different band name suggestions. 🎩✨
 
 ## **Customization**
 
